@@ -1,8 +1,3 @@
-## 2. `developer-setup-guide.md`
-
-Copy everything below directly into that file:
-
-````md
 # Scrape Wise — Developer Setup Guide
 
 ## 1. Overview
@@ -729,5 +724,3 @@ The application is functional as a scraping and analysis prototype, but the curr
 
 ```
 
-This is the **second file**. Next in the documentation set is **`scraping-pipeline-guide.md`**.
-```
